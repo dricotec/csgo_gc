@@ -16,6 +16,7 @@ While it's still possible to connect CS:GO to CS2's GC by spoofing the version n
 - Graffiti support
 - Weapon StatTrak support
 - Trade ups
+- Storage Units
 - Stickers and patches
 - Name tags
 - Music kits
@@ -29,6 +30,7 @@ While it's still possible to connect CS:GO to CS2's GC by spoofing the version n
 
 ## Planned features
 - Rest of the core features (souvenirs, storage units, StatTrak swaps...)
+- Rest of the core features (trade ups, souvenirs, StatTrak swaps...)
 
 I'm still looking for the **full** CS:GO Item Schema. If you have a relatively recent copy of it and are willing to share it, let me know!
 
