@@ -37,7 +37,7 @@ I'm still looking for the **full** CS:GO Item Schema. If you have a relatively r
 
 ## Installation
 - Download [CS:GO from Steam](steam://install/4465480)
-- Download the latest release for your platform from the [releases page](https://github.com/mikkokko/csgo_gc/releases/latest)
+- Download the latest release for your platform from the [releases page](https://github.com/Skysion3/cstrike15_gc/releases/latest)
 - Navigate to the game's installation directory
 - Back up your existing launcher executables as they'll be overwritten (i.e. csgo.exe, srcds.exe, csgo_linux64, etc.)
 - Extract the contents of the downloaded archive to your game directory, replace the executables when prompted
